@@ -639,6 +639,9 @@ body{
 .block3_ccont span{
 	color: #ffc400;
 }
+.block3_ccont a{
+	color: #fff;
+}
 .block3_right{
 	background: url(../img/3group7.png) no-repeat;
 	display: flex;
@@ -808,6 +811,9 @@ body{
 }
 .block4_lcont{
 	margin: 79px 0px 223px 23px; 
+}
+.block4_ccont a{
+	color: #fff;
 }
 .block4_left h2{
 	font-family: Russo One;
@@ -1017,6 +1023,9 @@ body{
 }
 .block5_lcont{
 	margin: 79px 0px 223px 23px; 
+}
+.block5_ccont a{
+	color: #fff;
 }
 .block5_left h2{
 	font-family: Russo One;
